@@ -1,1 +1,1 @@
-double x = 10;
+short x = 10;
